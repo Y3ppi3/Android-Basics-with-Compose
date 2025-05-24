@@ -49,12 +49,9 @@ Write conditionals in Kotlin [Codelab]
 
 Use nullability in Kotlin [Codelab]
 	
-	
 Use classes and objects in Kotlin [Codelab]
 	
-	
 Use function types and lambda expressions in Kotlin [Codelab]
-	
 	
 Practice: Kotlin Fundamentals [Codelab]
 ```
