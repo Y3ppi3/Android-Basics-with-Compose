@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="years_old">%d years old</string>
+    <string name="about">About:</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+</resources>

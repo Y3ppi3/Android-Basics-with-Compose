@@ -1,0 +1,1 @@
+#### то же самое что и `2 Simple animation with Jetpack Compose` + `WoofAccessibilityTest.kt`
