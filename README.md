@@ -81,7 +81,7 @@ Project: Create an Art Space app [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 3: Display lists and use Material Design
+## Unit 3: Display lists and use Material Design
 
 #### More Kotlin fundamentals || Pathway 1 
 ```
@@ -118,7 +118,7 @@ Project: Create a 30 Days App [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 4: Navigation and app architecture
+## Unit 4: Navigation and app architecture
 
 
 #### Architecture Components  || Pathway 1
@@ -155,7 +155,7 @@ Project: Create a My City app [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 5: Connect to the internet
+## Unit 5: Connect to the internet
 
 #### Get data from the internet || Pathway 1
 ```
@@ -179,7 +179,7 @@ Project: Create a Bookshelf app [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 6: Data persistence
+## Unit 6: Data persistence
 
 #### Introduction to SQL || Pathway 1
 ```
@@ -204,7 +204,7 @@ Project: Create a flight search app [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 7: WorkManager
+## Unit 7: WorkManager
 
 #### Schedule tasks with WorkManager || Pathway 1
 ```
@@ -217,7 +217,7 @@ Practice: Build Water Me app [Codelab]
 
 ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
 
-Unit 8: Views and Compose
+## Unit 8: Views and Compose
 
 #### Android Views and Compose in Views || Pathway 1
 ```  
